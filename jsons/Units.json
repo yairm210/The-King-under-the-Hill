@@ -1,0 +1,43 @@
+[
+
+	{
+		"name": "Settler",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 106,
+		"uniques": ["Founds a new city", "Unbuildable"],
+	},
+	{
+		"name": "Dwarvern Warrior",
+		"unitType": "Melee",
+		"uniqueTo": "The Dwarves",
+		"movement": 2,
+		"cost": 50, // similar to spearman
+		"strength": 10,
+	},
+	{
+		"name": "Mining Band",
+		"unitType": "Civilian",
+		"uniqueTo": "The Dwarves",
+		"movement": 2,
+		"cost": 106,
+		"uniques": ["Can construct [Dwarven Mine]"],
+	},
+	{
+		"name": "Drake",
+		"unitType": "Mounted",
+		"uniqueTo": "The Draconic Ones"
+		"movement": 3,
+		"strength": 20,
+		"cost": 120,
+		"uniques": ["Can move after attacking"]
+	},
+	{
+		"name": "Elder Dragon",
+		"unitType": "Mounted",
+		"uniqueTo": "The Draconic Ones"
+		"movement": 5,
+		"strength": 35,
+		"uniques": ["Can move after attacking", "Unbuildable"]
+	}
+]

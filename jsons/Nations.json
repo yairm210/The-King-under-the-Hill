@@ -1,0 +1,20 @@
+[
+	{
+		"name": "The Dwarves",
+		"leaderName": "Ararrunli Hammermail",
+		
+		"outerColor": [27,53,63],
+		"innerColor": [213,249,255],
+		"uniques": [""]
+		"cities": ["Kirn Farum", "Kunarum", "Girwohr", "Nol Ulum"]
+	},
+	{
+		"name": "The Draconic Ones",
+		"leaderName": "Grugaloragran",
+		
+		"outerColor": [ 114, 0, 0],
+		"innerColor": [255,255,255],
+		"uniques": [""]
+		"cities": ["The Dragon's Lair"]
+	}
+]

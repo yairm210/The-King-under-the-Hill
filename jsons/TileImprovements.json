@@ -1,0 +1,9 @@
+[
+	{
+		"name": "Dwarven Mine",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"production": 2,
+		"turnsToBuild": 7,
+	},
+	
+]
