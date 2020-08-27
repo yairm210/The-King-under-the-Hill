@@ -1,4 +1,4 @@
 {
 	"isBaseRuleset":true
-	"uniques": ["Diplomatic relationships cannot change", "Can convert gold to science with sliders"]
+	"uniques": ["Diplomatic relationships cannot change", "Scenario only"]
 }
